@@ -8,6 +8,9 @@ By default, `projects_root_path` parameter is set to `projects`. Which instructs
 
 ## Getting Started
 
+# Contract Address
+address: VBL2RJ64BKXWDGGDCX67MDU6CNHKHGIZRWHOMUBKW6TQR4EEJLDM6F4NXU
+
 To get started refer to `README.md` files in respective sub-projects in the `projects` directory.
 
 To learn more about algokit, visit [documentation](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/algokit.md).
@@ -20,3 +23,5 @@ To get started execute:
 2. `algokit init` - invoke this command inside a github codespace to launch an interactive wizard to guide you through the process of creating a new AlgoKit project
 
 Powered by [Copier templates](https://copier.readthedocs.io/en/stable/).
+
+![](image.png)
