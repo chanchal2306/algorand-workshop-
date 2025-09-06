@@ -1,6 +1,8 @@
 # algorandworkshop
 
 Welcome to your new AlgoKit project!
+<img width="1881" height="863" alt="image" src="https://github.com/user-attachments/assets/eff1f8c4-4b46-4206-8bfe-19511497ca94" />
+https://lora.algokit.io/testnet/application/745460835
 
 This is your workspace root. A `workspace` in AlgoKit is an orchestrated collection of standalone projects (backends, smart contracts, frontend apps and etc).
 
